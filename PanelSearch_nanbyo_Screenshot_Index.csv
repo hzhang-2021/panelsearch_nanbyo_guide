@@ -1,0 +1,49 @@
+﻿図,章,説明,出所,ファイル,幅,高さ
+1,共通ヘッダーとログイン,ログイン後の一覧とユーザーメニュー,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_list_PSN-AUTH-01.png,1920,1080
+2,共通ヘッダーとログイン,未ログインの一覧,今回取得・公開画面 2026-10-03,panel_list.jpg,1265,712
+3,パネル一覧,パネル一覧の初期表示,今回取得・公開画面 2026-10-03,panel_list.jpg,1265,712
+4,パネル一覧,ACTA1 の Gene 検索,今回取得・公開画面 2026-10-03,gene_search.jpg,1265,712
+5,パネル一覧,該当なしの例,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_list_panel_search_no_match.png,1920,1080
+6,一覧カードの各機能,Genes を展開した一覧,今回取得・公開画面 2026-10-03,genes_expanded.jpg,1265,712
+7,一覧カードの各機能,Clinical features の分類別表示,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_list_clinical_features_expanded.png,1920,1080
+8,パネル詳細の概要,先天性ミオパチーの詳細,今回取得・公開画面 2026-10-03,panel_detail.jpg,1253,705
+9,パネル詳細の概要,全幅のパネル詳細 既存 E2E 画像,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_PSN-02_visible.png,1920,1080
+10,Panel genes の表と評価,ACTA1 で絞り込む,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_filter_entities_existing.png,1920,1080
+11,Panel genes の表と評価,Reviewer ratings の詳細,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_panel_genes_reviewer_ratings.png,1920,1080
+12,Panel genes の表と評価,Reference ratings の詳細,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_panel_genes_reference_ratings.png,1920,1080
+13,Panel genes の表と評価,Papers の展開,今回取得・公開画面 2026-10-03,papers.jpg,1253,705
+14,版コメント 投稿者一覧 版比較,変更理由と版番号,今回取得・公開画面 2026-10-03,version_comments.jpg,1253,705
+15,版コメント 投稿者一覧 版比較,投稿者の Review 一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_reviewers.png,1920,1080
+16,版コメント 投稿者一覧 版比較,2 版の差分表,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_version_comparison.png,1920,1080
+17,Add Entity と Add Review,Add Entity の確認,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_add_entity_confirmation.png,1920,1080
+18,Add Entity と Add Review,Add Review の確認,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_add_review_confirmation.png,1920,1080
+19,Add Entity と Add Review,確認を取り消して入力に戻る,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_add_review_cancel.png,1920,1080
+20,エンティティ詳細,ACTA1 と先天性ミオパチーの詳細,今回取得・公開画面 2026-10-03,entity_detail.jpg,1265,712
+21,エンティティ詳細,History タブ,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_nav-vgp-history-panel.png,1920,1080
+22,エンティティ詳細,Reviewer に表示される操作,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_review_permissions_reviewer.png,1920,1080
+23,エンティティ詳細,管理権限を持つ利用者に表示される操作,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_review_permissions_manager.png,1920,1080
+24,レビューとコメントの管理,コメントの表示例,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_review_comment_modified.png,1920,1080
+25,Entity Definition の追加 変更 削除,Definition の編集,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_entity_definition_edit_visible.png,1920,1080
+26,Entity Definition の追加 変更 削除,Definition の登録確認,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_entity_definition_add_confirmation.png,1920,1080
+27,Entity Definition の追加 変更 削除,Definition の削除確認,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_entity_detail_entity_definition_delete_confirmation.png,1920,1080
+28,TSV ダウンロードの読み方,Download の位置,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,panel_detail_download.png,1920,1080
+29,Ontology 管理,DB の Ontology 一覧,今回取得・公開画面 2026-10-03,ontology.jpg,1280,720
+30,Ontology 管理,DB から読み込んだ分類ツリー,今回取得・公開画面 2026-10-03,ontology_tree.jpg,1265,712
+31,Ontology 管理,TTL ファイル分析の入口,今回取得・公開画面 2026-10-03,ontology_file.jpg,1280,720
+32,ユーザー管理,ユーザー一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_user_PSN-05_visible.png,1920,1080
+33,ユーザー管理,検索結果が 0 件の例,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_user_no_match.png,1920,1080
+34,グループ管理,グループ一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_group_PSN-06_visible.png,1920,1080
+35,グループ管理,メンバーの検索と追加・削除・役割,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_group_group_in_group_name_filter_clear.png,1920,1080
+36,グループ活動,グループ活動一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_group_activity_PSN-07_visible.png,1920,1080
+37,グループ活動,Reviewer から Curator への変更記録,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_group_activity_group_activity_consistency_admin_promote.png,1920,1080
+38,アクティビティ,活動一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_activity_PSN-08_visible.png,1920,1080
+39,アクティビティ,コメント変更の前後比較,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_activity_activity_consistency_comment_lifecycle_change.png,1920,1080
+40,担当アクティビティの確認,担当アクティビティ一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_incharge_PSN-10_visible.png,1920,1080
+41,認証ログ,認証ログ,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_authentication_PSN-09_visible.png,1920,1080
+42,認証ログ,期間による絞り込み,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_authentication_date_from_filter.png,1920,1080
+43,プロフィール,プロフィール表示,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_profile_PSN-11_visible.png,1920,1080
+44,プロフィール,Cancel 後の閲覧表示,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_profile_profile_edit_cancel.png,1920,1080
+45,自分のレビュー,自分のレビュー一覧,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_review_PSN-12_visible.png,1920,1080
+46,メール設定,メールログの読込結果,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_mail_mail_log_load.png,1920,1080
+47,メール設定,メールテンプレート,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_mail_nav-template-panel.png,1920,1080
+48,メール設定,SMTP の閲覧専用設定,既存 E2E 画像・ファイル更新日 2026-09-30・今回未再撮影,admin_mail_nav-smtp-panel.png,1920,1080
